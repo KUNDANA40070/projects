@@ -1,3 +1,2 @@
 # projects
-This is my first git repo
-Kundana
+This is my first git repo <br> Kundana
